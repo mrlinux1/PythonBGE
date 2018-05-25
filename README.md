@@ -1,4 +1,4 @@
 PythonBGE
 =========
 
-Wie man im Blender mit Python spielt.
+Wie man in Blender mit Python spielt.
